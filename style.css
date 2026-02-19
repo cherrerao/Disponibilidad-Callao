@@ -123,6 +123,11 @@ main {
     width: 100%;
 }
 
+.board-link {
+    display: block;
+    width: 100%;
+}
+
 /* ESTILOS ESPECÍFICOS POR AÑO */
 .section-2025 {
     padding: 40px 0;
